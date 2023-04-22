@@ -6,4 +6,4 @@
 - Creating Relational Databases
 - Allow Any User to Add Comments to BlogPosts
 ## Blog
-![day69](https://user-images.githubusercontent.com/98851253/164320602-ee6de83b-29c4-4eee-968c-3ea22ceea2c7.gif)
+![](https://github.com/DeathStar1711/Personal_Blog_Website_using_Python-Flask/blob/main/Animation.gif)
